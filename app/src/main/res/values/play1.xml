@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="P1">
+        <item>@string/point</item>
+        <item>@string/wing_left</item>
+        <item>@string/wing_left</item>
+        <item>@string/wing_left</item>
+        <item>@string/short_corner_left</item>
+        <item>@string/short_corner_left</item>
+        <item>@string/short_corner_left</item>
+        <item>@string/short_corner_left</item>
+
+
+    </array>
+
+    <array name="P2">
+        <item>@string/wing_left</item>
+        <item>@string/corner_left</item>
+        <item>@string/corner_right</item>
+        <item>@string/wing_right</item>
+        <item>@string/wing_right</item>
+        <item>@string/wing_right</item>
+        <item>@string/wing_right</item>
+        <item>@string/wing_right</item>
+
+
+    </array>
+
+    <array name="P3">
+        <item>@string/wing_right</item>
+        <item>@string/point</item>
+        <item>@string/point</item>
+        <item>@string/point</item>
+        <item>@string/point</item>
+        <item>@string/point</item>
+        <item>@string/point</item>
+        <item>@string/point</item>
+
+
+
+    </array>
+
+    <array name="P4">
+        <item>@string/block_left</item>
+        <item>@string/block_left</item>
+        <item>@string/block_left</item>
+        <item>@string/block_left</item>
+        <item>@string/block_right</item>
+        <item>@string/block_right</item>
+        <item>@string/block_right</item>
+        <item>@string/block_right</item>
+
+
+    </array>
+
+    <array name="P5">
+        <item>@string/block_right</item>
+        <item>@string/block_right</item>
+        <item>@string/elbow_left</item>
+        <item>@string/elbow_left</item>
+        <item>@string/elbow_left</item>
+        <item>@string/elbow_left</item>
+        <item>@string/elbow_left</item>
+        <item>@string/elbow_left</item>
+
+
+
+    </array>
+
+    <array name="ball">
+        <item>@string/player1</item>
+        <item>@string/player1</item>
+        <item>@string/player1</item>
+        <item>@string/player5</item>
+        <item>@string/player5</item>
+        <item>@string/player1</item>
+        <item>@string/shoot</item>
+        <item>@string/shoot</item>
+
+
+
+
+    </array>
+</resources>

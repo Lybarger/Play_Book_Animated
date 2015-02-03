@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="player1">P1</string>
+    <string name="player2">P2</string>
+    <string name="player3">P3</string>
+    <string name="player4">P4</string>
+    <string name="player5">P5</string>
+    <string name="shoot">shoot</string>
+</resources>

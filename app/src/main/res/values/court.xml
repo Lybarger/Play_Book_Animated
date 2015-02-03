@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="screenWidthPixels">640</integer>
+    <integer name="screenHeightPixels">360</integer>
+    <integer name="hoopDiameterInches">18</integer>
+    <integer name="courtWidthFeet">50</integer>
+    <integer name="hoopOffsetInches">63</integer>
+    <integer name="lineWidthInches">2</integer>
+    <integer name="boundaryWidth">50</integer>
+    <integer name="boundaryHeight">10</integer>
+    <integer name="backboardOffsetFeet">4</integer>
+    <integer name="backboardWidthFeet">6</integer>
+    <integer name="keyWidthFeet">12</integer>
+    <integer name="keyHeightFeet">19</integer>
+    <integer name="keyTickSpaceFeet">3</integer>
+    <integer name="keyBlockWidthFeet">1</integer>
+    <integer name="keyTickLengthInches">8</integer>
+    <integer name="keyBlockOffsetFeet">7</integer>
+
+</resources>

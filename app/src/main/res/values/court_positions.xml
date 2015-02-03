@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="corner_left">corner_left</string>
+    <string name="corner_right">corner_right</string>
+    <string name="wing_left">wing_left</string>
+    <string name="wing_right">wing_right</string>
+    <string name="point">point</string>
+
+    <string name="block_left">block_left</string>
+    <string name="block_right">block_right</string>
+    <string name="elbow_left">elbow_left</string>
+    <string name="elbow_right">elbow_right</string>
+    <string name="high_post">high_post</string>
+    <string name="paint_left">paint_left</string>
+    <string name="paint_right">paint_right</string>
+    <string name="paint_center">paint_center</string>
+
+    <string name="short_corner_left">short_corner_left</string>
+    <string name="short_corner_right">short_corner_right</string>
+
+
+
+
+</resources>
